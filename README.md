@@ -12,13 +12,13 @@ This is a to-do list rought sketch following Tyler potts Tutorial on Youtube.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screenshot%202022-09-14%20at%2015-13-13%20Task%20List%20tutorial.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github link: [Github](https://github.com/Bill-Adepoju/To-do-list)
+- Live Site URL: [Live-site](https://bill-adepoju.github.io/To-do-list/)
 
 
 ### Built with
