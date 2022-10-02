@@ -17,8 +17,8 @@ This is a to-do list rought sketch following Tyler potts Tutorial on Youtube.
 
 ### Links
 
-- Github link: [Github](https://github.com/Bill-Adepoju/To-do-list)
-- Live Site URL: [Live-site](https://bill-adepoju.github.io/To-do-list/)
+- Github link: [Github](https://github.com/Anomandar/To-do-list)
+- Live Site URL: [Live-site](https://anomandar.github.io/To-do-list/)
 
 
 ### Built with
